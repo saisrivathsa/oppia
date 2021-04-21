@@ -1,1 +1,1 @@
-image: ubuntu:trusty
+image: 082830052325.dkr.ecr.us-east-1.amazonaws.com/docker:ubuntu-bionic
